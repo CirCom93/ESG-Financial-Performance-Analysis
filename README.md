@@ -53,6 +53,8 @@ DAX measures are used to calculate metrics such as average revenue per company, 
 
 ### Page 1 - Financial Overview
 
+![Financial Overview](page_1_financial_overview.png)
+
 ### Page 2 - ESG Performance
 
 ![ESG Performance](page_2_ESG_performance.png)
