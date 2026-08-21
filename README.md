@@ -49,6 +49,15 @@ The analysis examines revenue growth over time, industry revenue rankings, avera
 
 DAX measures are used to calculate metrics such as average revenue per company, industry revenue rankings, average revenue by ESG category, and average profit margin by industry.
 
+## Key Insights
+
+The analysis highlights a positive trend in both financial and ESG performance between 2015 and 2025. Aggregate revenue nearly doubled, increasing from €33.1M in 2015 to €65.8M in 2025, while the average ESG score steadily increased from 514.4 to 578.3.
+
+Technology emerged as the leading industry in terms of revenue, reaching approximately €165M, followed by Energy and Finance. Europe also recorded the highest aggregate revenue among the regions analyzed.
+
+A clear difference can be seen across ESG categories: companies classified as High ESG (ESG Score ≥ 700) recorded an average revenue of approximately €605.8K, compared with €416.6K for Medium ESG companies (400–699) and €231.4K for Low ESG companies (< 400). This highlights an interesting association between ESG classification and average revenue within the dataset.
+
+
 ## Dashboard Preview
 
 ### Page 1 - Financial Overview
