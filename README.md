@@ -53,5 +53,5 @@ DAX measures are used to calculate metrics such as average revenue per company, 
 
 ### Page 1 - Financial Overview
 
-![Financial Overview](page_1_financial-overview.png)
+![Financial Overview](page_1_financial_overview.png)
 
