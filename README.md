@@ -50,3 +50,8 @@ The analysis examines revenue growth over time, industry revenue rankings, avera
 DAX measures are used to calculate metrics such as average revenue per company, industry revenue rankings, average revenue by ESG category, and average profit margin by industry.
 
 ## Dashboard Preview
+
+### Page 1 - Financial Overview
+
+![Financial Overview](page_1_financial-overview.png)
+
